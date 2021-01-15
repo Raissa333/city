@@ -1,9 +1,9 @@
 # city
 <html>
-    <head>
-        <link rel="stylesheet" href="style.css"/>
-        </head>
     <body>
+        <head>
+            <link rel="stylesheet" href="style.css"/>
+        </head>
         <header>
             <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
         </header>
